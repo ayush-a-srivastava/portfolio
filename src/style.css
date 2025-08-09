@@ -507,8 +507,8 @@ nav {
 }
 
 .certification-tag {
- background: #e2e8f0;
- color: #4a5568;
+ /* background: #e2e8f0; */
+ color: #667eea;
  padding: clamp(0.6rem, 2vw, 0.8rem) clamp(1rem, 3vw, 1.5rem);
  border-radius: 2rem;
  font-weight: 500;
